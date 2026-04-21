@@ -32,7 +32,7 @@ To help students improve time management, stay organized, and manage multiple re
 
 ```bash id="x7m2kp"
 # Clone the repository
-git clone https://github.com/your-username/student-organizer.git
+git clone https://github.com/salehaqaiserr/student-organizer.git
 
 # Open the project folder
 cd student-organizer
