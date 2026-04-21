@@ -64,5 +64,3 @@ This project is licensed under the MIT License.
 ## Thanks for viewing this project!
 ---
 
-If you tell me your GitHub username, I can fill that in for you 👍
-
