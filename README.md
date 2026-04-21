@@ -1,6 +1,6 @@
 # Student-Task-Organizer
 
-# 📘 Student Organizer
+#  Student Organizer
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
@@ -42,7 +42,7 @@ cd student-organizer
 
 Or simply open the `index.html` file directly in any web browser.
 
-## 🧰 Built With
+##  Built With
 
 * HTML
 * CSS
