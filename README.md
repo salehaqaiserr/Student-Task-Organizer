@@ -51,7 +51,7 @@ Or simply open the `index.html` file directly in any web browser.
 ##  Author
 
 **Saleha Qaiser**
-GitHub: [https://github.com/salehaqiaserr](https://github.com/your-username)
+GitHub: [https://github.com/salehaqiaserr](https://github.com/salehaqaiserr)
 
 ##  Contributing
 
